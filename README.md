@@ -36,8 +36,6 @@ To run this project, ensure you have Python installed and the following librarie
 - `data/`: Directory containing the diabetes dataset.
 - `Diabetes_Prediction.ipynb`: Jupyter notebook with all the analyses and model training steps.
 
-To incorporate detailed findings into your README, you might want to include a section that synthesizes the insights from your exploratory data analysis (EDA), model training, and hyperparameter tuning. This section can highlight key takeaways, model performance metrics, and any conclusions drawn from the data analysis. Below is an example of how you might structure this section:
-
 ## Findings
 
 ### Exploratory Data Analysis (EDA)
