@@ -39,7 +39,7 @@ To run this project, ensure you have Python installed and the following librarie
 ## Findings
 
 ### Exploratory Data Analysis (EDA)
-- **Variable Distributions**: Our EDA revealed significant differences in distributions of key variables such as Glucose, BloodPressure, and BMI when comparing outcomes (diabetes presence vs. absence). Particularly, higher glucose levels were closely associated with diabetes outcomes.
+- **Variable Distributions**: EDA revealed significant differences in distributions of key variables such as Glucose, BloodPressure, and BMI when comparing outcomes (diabetes presence vs. absence). Particularly, higher glucose levels were closely associated with diabetes outcomes.
 - **Outcome Distribution**: The dataset contains 500 instances without diabetes and 268 with diabetes, indicating a reasonable balance but slight imbalance towards negative outcomes.
 
 ### Hyperparameter Tuning
